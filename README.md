@@ -7,7 +7,7 @@ Desenvolvedor de software, formado em SI.
 - 📫 Contato: [e-mail](mailto:nathan.tomaz01@gmail.com)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=NathanTomaz&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=NathanTomaz&color=blueviolet)
 
 
 - 📚 Estudando: `Javascript`.
