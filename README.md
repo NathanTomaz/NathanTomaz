@@ -6,7 +6,7 @@ Desenvolvedor de software, formado em SI.
 
 - 🔗 Página: [nathantomaz.github.io](https://nathantomaz.github.io/)
 - 📫 Contato: [e-mail](mailto:nathan.tomaz01@gmail.com)
-
+- [Meu jogo no scratch](https://scratch.mit.edu/projects/668776680)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NathanTomaz&color=blueviolet)
 
