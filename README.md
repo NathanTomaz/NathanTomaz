@@ -15,6 +15,12 @@ Desenvolvedor de software, formado em SI.
 
 - 📚 Estudando: `Algorithms with C` `Python` `Javascript`.
 
+<div style="display: inline_block">
+  <a href="https://github.com/NathanTomaz">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NathanTomaz&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NathanTomaz&theme=tokyonight&hide_border=true" width = 400>
+</div>
+
 <!--
 **NathanTomaz/NathanTomaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
