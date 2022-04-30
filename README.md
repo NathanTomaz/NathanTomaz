@@ -1,7 +1,7 @@
 ## Bem-vindo 👍
 
 <!--![yeah](https://66.media.tumblr.com/8aeb380e7f043b02d5f7cb9af1d5aa05/tumblr_ovyvzs2Pr61w4o2q9o1_540.gif) -->
-![yeah](https://66.media.tumblr.com/2176b3401f37ebbba797694cdd43a4e7/tumblr_nsx1e3tQH01qcbjtzo1_640.gif)
+![yeah](https://64.media.tumblr.com/1561bdd9e8e399684907c8d1230a83ae/1a459ef5b8406ce6-ac/s500x750/eaf1d581f40c6e7176890d3a23eec9b06df0cb5f.gifv)
 
 
 Desenvolvedor de software, formado em SI.
